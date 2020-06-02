@@ -1,4 +1,5 @@
 {
+    "dados" : {
         "dia" : "01/Mai",
         "casosNovos" : 1,
         "casosTotais" : 1,
@@ -6,4 +7,5 @@
         "recuperadosTotais" : 0,
         "obitosNovos" : 0,
         "obitosTotais" : 0
+    }
 }
