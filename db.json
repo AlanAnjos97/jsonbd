@@ -1,8 +1,8 @@
 {
     "dados" : [{
         "dia" : "01/Mai",
-        "casosNovos" : 1,
-        "casosTotais" : 1,
+        "casosNovos" : 3,
+        "casosTotais" : 3,
         "recuperadosNovos" : 0,
         "recuperadosTotais" : 0,
         "obitosNovos" : 0,
@@ -10,8 +10,8 @@
     },
     {
         "dia" : "02/Mai",
-        "casosNovos" : 1,
-        "casosTotais" : 1,
+        "casosNovos" : 9,
+        "casosTotais" : 15,
         "recuperadosNovos" : 0,
         "recuperadosTotais" : 0,
         "obitosNovos" : 0,
